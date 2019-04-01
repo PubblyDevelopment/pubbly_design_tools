@@ -14,6 +14,10 @@ For help on how to create content, read through the applications built in help m
 
 ### Developers
 
-To start editing the source code of the Pubbly Design Tools, first download a copy of [LveCode Community 7.1.4](https://downloads.livecode.com/livecode/). Download and unzip the Window.zip package, and rename the file Tools.pbly to Tools.livecode. Open the Tools file from within Livecode.
+To start editing the source code of the Pubbly Design Tools, first download a copy of [LiveCode Community 7.1.4](https://downloads.livecode.com/livecode/). Download and unzip the Window.zip package, and rename the file Tools.pbly to Tools.livecode. Open the Tools file from within Livecode.
 
 Changes must be done from within the Livecode IDE.
+
+## Third party sources
+
+...
